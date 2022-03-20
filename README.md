@@ -1,6 +1,6 @@
 # MQ na Amazon Web Services (AWS)
 
-This repository contains sample code for running IBM® MQ on Amazon Web Services (AWS):
+Este repositório contém código de amostra para executar o IBM® MQ no Amazon Web Services (AWS):
 
 * [MQ on AWS: sample using DRBD to replicate data](https://github.com/ibm-messaging/mq-aws/tree/master/drbd/part_1)
 * [MQ on AWS: sample using DRBD and Pacemaker](https://github.com/ibm-messaging/mq-aws/tree/master/drbd/part_2)
