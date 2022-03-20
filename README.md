@@ -1,4 +1,4 @@
-# MQ on Amazon Web Services (AWS)
+# MQ na Amazon Web Services (AWS)
 
 This repository contains sample code for running IBM® MQ on Amazon Web Services (AWS):
 
